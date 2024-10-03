@@ -99,10 +99,10 @@
 <p><b>Method: </b>GET</p>
 <h3>Login Details</h3>
 <ul>
-<li>User</li>
+<li><h2>User</h2></li>
  <li> EmailID-testuserk3429@gmail.com</li>
  <li> Password-UserX@123</li>
-<li>Admin</li>
+<li><h2>Admin</h2></li>
   <li>EmailID-testuser3429x61@gmail.com</li>
   <li>Password-Admin@123</li>
   </ul>
