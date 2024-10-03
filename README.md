@@ -2,7 +2,7 @@
 <h2>Introduction</h2>
 <ul>
   <li>This repository contains the backend code for the Role Based Access Control application built as my MERN Full Stack Development course completion project(final project).</li>
-  <li>This website a corporate intranet portal (website used by the employees of an organization with the organization).</li>
+  <li>This website a corporate InfoNet portal (website used by the employees of an organization with the organization).</li>
 </ul>
 <h2>Third Party Packages Used</h2>
 <ol>
