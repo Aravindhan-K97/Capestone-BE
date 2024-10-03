@@ -97,6 +97,16 @@
 <h3>Download Work Period Report PDF</h3>
 <p><b>End Point: </b>/api/report/work-period-report/pdf/:id</p>
 <p><b>Method: </b>GET</p>
+<p>
+  <Login Details>
+1)User
+  EmailID-testuserk3429@gmail.com
+  Password-UserX@123
+2)Admin
+  EmailID-testuser3429x61@gmail.com
+  Password-Admin@123
+    
+</p>
 
 ## FrontEnd Netlify Deployed URL ⌛
 
